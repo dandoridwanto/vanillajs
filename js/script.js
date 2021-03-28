@@ -57,7 +57,6 @@ $('#movie-list').on('click', '.see-detail', function() {
         },
         success: function (movie) {
             if (movie.Response === "True") {
-
                 let modal_body = `
                     <div class="container-fluid">
                         <div class="row">
