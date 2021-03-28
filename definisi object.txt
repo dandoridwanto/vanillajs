@@ -1,0 +1,2 @@
+Object pada javascript adalah kumpulan property,
+dan property ditulis dalam bentuk pasangan antara key dan value
